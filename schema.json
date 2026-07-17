@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "device_details": {
+    "detected_model": "Lenovo IdeaPad Slim 3",
+    "reported_issue": "Blown charging circuit / power IC failure",
+    "confidence_score": 0.92
+  },
+  "financial_valuation": {
+    "estimated_repair_cost": 1500,
+    "fair_salvage_value": 5700,
+    "predatory_scrap_quote_baseline": 500,
+    "summary_text": "By investing Rs. 1,500 in repairs, you unlock a fair salvage value of Rs. 5,700, compared to a meager Rs. 500 scrap offer."
+  },
+  "salvageable_components": [
+    {
+      "component_name": "8GB DDR4 RAM Module",
+      "estimated_value": 1200,
+      "condition": "Likely Functional"
+    },
+    {
+      "component_name": "256GB NVMe SSD",
+      "estimated_value": 1500,
+      "condition": "Likely Functional"
+    },
+    {
+      "component_name": "1080p IPS Display Panel",
+      "estimated_value": 3000,
+      "condition": "Excellent Visual Condition"
+    }
+  ],
+  "environmental_impact": {
+    "co2_saved_kg": 45.8,
+    "heavy_metals_diverted_g": 120.5,
+    "landfill_space_saved_cm3": 850
+  }
+}
